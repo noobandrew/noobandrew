@@ -11,4 +11,4 @@
 ## Connect with me
 <a href="https://www.linkedin.com/in/hammelandrew/"><img src="https://img.shields.io/badge/-Andrew%20Hammel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:andrewhammelcontato@gmail.com"><img src="https://img.shields.io/badge/-andrewhammelcontato@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/hammelandrew_"><img src="https://img.shields.io/badge/-@hammelandrew-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/hammelandrew"><img src="https://img.shields.io/badge/-@hammelandrew-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
