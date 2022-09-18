@@ -1,4 +1,5 @@
 # &nbsp;Hello. You can call me Andrew.
+[comment]: <> (Made my readme inspired by Aditya Vikram Singh profile and the https://www.makeareadme.com/. Thank you guys for letting me learn through your projects.)
 
 ### &nbsp;About Me:
 
