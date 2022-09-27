@@ -9,6 +9,5 @@
 ✍️ &nbsp;I used to work being a singer, musician, sometimes producer and doing voiceovers but now it's just a hobby. 
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/hammelandrew/"><img src="https://img.shields.io/badge/-Andrew%20Hammel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:andrewhammelcontato@gmail.com"><img src="https://img.shields.io/badge/-andrewhammelcontato@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/hammelandrew"><img src="https://img.shields.io/badge/-@hammelandrew-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hammelandrew/" target="_blank"><img src="https://img.shields.io/badge/-ANDREW HAMMEL-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/andhammel" target="_blank"><img src="https://img.shields.io/badge/-andhammel-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
