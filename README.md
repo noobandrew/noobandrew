@@ -5,8 +5,7 @@
 
 ⏳ &nbsp;I'm 24 years old.\
 🎓 &nbsp;I'm currently studying Information Systems at Universidade Federal de Santa Maria. Before that, I studied Business Administration at the same institution, even though I didn't finish the degree. \
-🌱 &nbsp;I'm beggining to learn how to code.\
-✍️ &nbsp;I used to work being a singer, musician, sometimes producer and doing voiceovers but now it's just a hobby. 
+🌱 &nbsp;I'm a beginner at programming.\ 
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/hammelandrew/" target="_blank"><img src="https://img.shields.io/badge/-ANDREW HAMMEL-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
