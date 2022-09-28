@@ -8,5 +8,5 @@
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/hammelandrew/" target="_blank"><img src="https://img.shields.io/badge/-ANDREW HAMMEL-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/andhammel" target="_blank"><img src="https://img.shields.io/badge/-andhammel-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/hammelandrew" target="_blank"><img src="https://img.shields.io/badge/-hammelandrew-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:andrewhammelcontato@gmail.com"><img src="https://img.shields.io/badge/-ANDREWHAMMELCONTATO@GMAIL.COM-%23333?style=for-the-badge&logo=gmail&logoColor=RED" target="_blank"></a>
