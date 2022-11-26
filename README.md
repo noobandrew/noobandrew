@@ -5,10 +5,8 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/noobandrew">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobandrew&layout=compact)](https://github.com/noobandrew/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobandrew)](https://github.com/noobandrew/github-readme-stats)
+
 
 
 
