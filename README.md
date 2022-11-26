@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/noobandrew">
-  <img height="180em" src="github-readme-stats-nine-jet.vercel.app/api/top-langs/?username=noobandrew&layout=compact&langs_count=7&theme=blueberry"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobandrew&layout=compact)](https://github.com/noobandrew/github-readme-stats)
 </div>
 
 
