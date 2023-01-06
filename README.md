@@ -1,10 +1,12 @@
 # <p align="center"> &nbsp;Hello. You can call me Andrew.</p>
 
 
-<p align="center">⏳ &nbsp;I'm 24 years old.<br/>🎓&nbsp;I'm currently studying Information Systems at Universidade Federal de Santa Maria. <br>Before that, I studied Business Administration at the same institution, even though I didn't finish the degree.</br>👨‍&nbsp;I'm a programmer.<br> Currently building a web app for a georeferencing company, although it's a private repo.</p>
+<p align="center">⏳ &nbsp;I'm 24 years old.<br/>🎓&nbsp;I'm currently studying Information Systems at Universidade Federal de Santa Maria. <br>Before that, I studied Business Administration at the same institution, even though I didn't finish the degree.</br>👨‍&nbsp;I'm a programmer.<br> Currently building a web app for a georeferencing company.</p>
 
 
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobandrew&layout=compact)](https://github.com/noobnadrew/github-readme-stats)
+
+<p style="text-align: center;"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobandrew&layout=compact)](https://github.com/noobnadrew/github-readme-stats) </p>
+
 
 
 
