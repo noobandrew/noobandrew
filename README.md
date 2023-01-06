@@ -5,9 +5,9 @@
 
 
 
-<div align="center">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobandrew&layout=compact)](https://github.com/noobnadrew/github-readme-stats)
-  </div>
 
 
 
