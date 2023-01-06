@@ -4,12 +4,15 @@
 <p align="center">⏳ &nbsp;I'm 24 years old.<br/>🎓&nbsp;I'm currently studying Information Systems at Universidade Federal de Santa Maria. <br>Before that, I studied Business Administration at the same institution, even though I didn't finish the degree.</br>👨‍&nbsp;I'm a programmer.<br> Currently building a web app for a georeferencing company.</p>
 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
+
+
 
 
 
 <div align="center">
   <a href="https://github.com/noobandrew">
-  <img height="180em" src="https://github-readme-stats-zeta-eight-71.vercel.app/api/top-langs/?username=noobandrew&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 
 
