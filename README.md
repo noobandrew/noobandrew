@@ -1,7 +1,7 @@
 # <p align="center"> &nbsp;Hello. You can call me Andrew.</p>
 
 
-<p align="center">⏳ &nbsp;I'm 24 years old.<br/>🎓&nbsp;I'm currently studying Information Systems at Universidade Federal de Santa Maria. <br>Before that, I studied Business Administration at the same institution, even though I didn't finish the degree.</br> Currently building a web app for a georeferencing company.</p>
+<p align="center">⏳ &nbsp;I'm 24 years old.<br/>🎓&nbsp;I'm currently studying Information Systems at Universidade Federal de Santa Maria. <br>Before that, I studied Business Administration at the same institution, even though I didn't finish the degree.</br> Currently building a web app for a georeferencing company using Leaflet.</p>
 
 
 
