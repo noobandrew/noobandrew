@@ -1,7 +1,13 @@
 # <p align="center"> &nbsp;Hello. You can call me Andrew.</p>
 
 
-<p align="center">⏳ &nbsp;I'm 25 years old.<br/>🎓&nbsp;I'm currently studying Information Systems at Universidade Federal de Santa Maria. <br>Before that, I studied Business Administration at the same institution, even though I didn't finish the degree.</br> Currently building a web app for a georeferencing company using PHP/SQL and Leaflet (JS library).</p>
+<p align="center">⏳ I'm 25 years old.
+<p align="center">🎓 I am currently studying Information Systems at the Federal University of Santa Maria.
+<p align="center">📚 Previously, I studied Business Administration at the same institution, although I did not complete the course.
+
+<p align="center">💻 I am currently building a web application for a georeferencing company using mainly PHP/SQL and the Leaflet (JS) library.
+
+<p align="center">🚀 I'm always looking for new challenges and learning opportunities in the technology field. If you want to know more about me or my work, don't hesitate to get in touch!</p>
 
 
 
