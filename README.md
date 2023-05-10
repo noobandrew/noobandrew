@@ -13,10 +13,14 @@
 
 
 <div align="center">
-  <a href="https://github.com/noobandrew">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobandrew&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
-
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobandrew&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobandrew&show_icons=true&theme=dark)
+  <div>
+  
+  
+ 
 
 
 
