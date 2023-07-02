@@ -2,10 +2,9 @@
 
 
 <p align="center">⏳ I'm 25 years old.
-<p align="center">🎓 I am currently studying Information Systems at the Federal University of Santa Maria.
-<p align="center">📚 Previously, I studied Business Administration at the same institution, although I did not complete the course.
-<p align="center">💻 I am currently building a web application for a georeferencing company using mainly PHP/SQL and the Leaflet (JS) library.
-<p align="center">🚀 I am also currently responsible for the technology of a startup incubated at Federal University of Santa Maria, leading the migration of its ERP made in the bubble (no-code) to its version in code.
+<p align="center">🎓 I am currently studying at the Federal University of Santa Maria.
+<p align="center">💻 I recently developed a web application for a georeferencing company using mainly PHP/SQL and the Leaflet library (JS).
+<p align="center">🚀 I am also currently responsible for the technology on a startup incubated at Federal University of Santa Maria, leading the migration of its software made in Bubble (no-code) to its version in code.
 <p align="center"> I'm always looking for new challenges and learning opportunities in the technology field. If you want to know more about me or my work, don't hesitate to get in touch!</p>
 
 
