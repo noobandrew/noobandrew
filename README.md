@@ -4,7 +4,7 @@
 <p align="center">⏳ I'm 25 years old.
 <p align="center">💻 I recently developed a web application for a georeferencing company using mainly PHP/SQL and the Leaflet library (JS).
 <p align="center">🚀 I am also currently responsible for the technology on a startup incubated at Federal University of Santa Maria, leading the migration of its software made in Bubble (no-code) to its version in code.
-<p align="center"> I'm always looking for new challenges and learning opportunities in the technology field. If you want to know more about me, my startup or my work, don't hesitate to get in touch!</p>
+<p align="center"> I'm always looking for new challenges and learning opportunities in the technology field. If you want to know more about me, my startup and my work, don't hesitate to get in touch!</p>
 
 
 
